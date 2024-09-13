@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * <h1> Conta Banco </h1>
- * O programa realiza a coleta de dados como nome, agência, número da conta e o saldo, do cliente, e imprime após as informações coletadas.
+ * O programa realiza a coleta de dados como nome, agência, número da conta e o saldo, do cliente, e imprime após coletar as informações.
  * 
  * <h4>Language: Java</h4>
  * 
